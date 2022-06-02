@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.main-visual-text {
+  padding: 20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.main-sabu1 {
+  margin-bottom: 30px;
+  border-bottom: 5px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.main-sabu2 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid black;
+  padding-bottom: 30px;
+}
+
+.main-sabu3 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.main-sabu4 {
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 50px;
+}
